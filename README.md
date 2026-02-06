@@ -62,6 +62,19 @@ The dashboard is designed to support HR and People Analytics decision-making by 
 - Data dictionary for reference
 
 ---
+## 📊 Power BI File
+
+The Power BI report file (`.pbix`) is included for transparency and reproducibility.
+
+- Contains the full data model, DAX measures, and interaction logic
+- Built using a publicly available HR dataset
+- Intended for local exploration and portfolio demonstration
+
+To view the report:
+1. Download the `.pbix` file
+2. Open with Power BI Desktop
+
+---
 
 ## 🚀 Next Steps
 - Build a predictive attrition model
