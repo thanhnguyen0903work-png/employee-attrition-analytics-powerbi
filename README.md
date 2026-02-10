@@ -87,4 +87,4 @@ To view the report:
 ![Overview](screenshots/overview.png)
 ![Demographics](screenshots/demographics.png)
 ![Attrition](screenshots/attrition.png)
-![Performance Tracking](screenshots/performance tracking.png)
+![Performance Tracking](screenshots/performance_tracking.png)
