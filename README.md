@@ -76,11 +76,25 @@ To view the report:
 
 ---
 
-## 🚀 Next Steps
-- Build a predictive attrition model
-- Segment attrition risk by tenure and role
-- Incorporate manager-level and workload metrics
+💡 Business Recommendations
 
+Based on the analysis, the following actions are recommended:
+
+- Improve early-career retention:
+  Introduce structured onboarding and mentorship programs for employees with <2 years tenure.
+
+- Enhance compensation & benefits:
+  Expand stock option offerings to reduce attrition risk among high-potential employees.
+
+- Monitor employee satisfaction:
+  Implement regular engagement surveys and intervene early for declining satisfaction scores.
+
+- Focus on high-risk departments:
+  Prioritise retention strategies in sales-related roles where attrition is highest.
+
+  Future Enhancement:
+- Build a predictive model (e.g. logistic regression) to identify high-risk employees
+- Use feature importance to understand key drivers of attrition
 ---
 
 ## 📷 Dashboard Preview
