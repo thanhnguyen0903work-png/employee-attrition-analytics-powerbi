@@ -76,7 +76,7 @@ To view the report:
 
 ---
 
-##💡 Business Recommendations
+## 💡Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
