@@ -76,7 +76,7 @@ To view the report:
 
 ---
 
-💡 Business Recommendations
+##💡 Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
@@ -92,7 +92,7 @@ Based on the analysis, the following actions are recommended:
 - Focus on high-risk departments:
   Prioritise retention strategies in sales-related roles where attrition is highest.
 
-  Future Enhancement:
+ ## Future Enhancement:
 - Build a predictive model (e.g. logistic regression) to identify high-risk employees
 - Use feature importance to understand key drivers of attrition
 ---
